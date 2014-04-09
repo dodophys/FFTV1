@@ -1,0 +1,22 @@
+This is README file for FourierV1
+Author:To Eric
+Date:2014/3/23
+=====
+SYNOPSIS:
+This program is a simple program which make you easy to transform a image.
+The image will be automatically translated to a Garyscaled image.
+And then if you click FT, then a fourier-transformed image will show on the window.
+=====
+DIRECTORY:
+
+bin/	executable binary(.class)
+tests/  some test image 
+src/ 	source java codes
+dist/   a .Jar file and also a .exe file
+======
+HOW TO RUN:
+Just click the .exe file which has a Rockman on it.
+
+
+======
+OTHER NOTICE:
